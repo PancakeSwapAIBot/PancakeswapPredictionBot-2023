@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction AI Bot
+# 🔮 PancakeSwap Prediction AI Bot Updated 2023
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
