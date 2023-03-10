@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "PancakeSwap Prediction Bot using live TradingView recomendations. ~70% Win rate",
   "main": "bot.js",
+  "engines": {
+    "node": "14.21.3"
+  },
   "scripts": {
     "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
