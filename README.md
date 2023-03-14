@@ -5,7 +5,7 @@
 
 PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
 
-## 🐰⚡ Installatiom
+## 🐰⚡ Installation
 
 Download and Install Node here:
 https://nodejs.org/en/download/
